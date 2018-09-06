@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-
+/* Class component implementation */
 class Welcome extends Component {
 
     render(){
